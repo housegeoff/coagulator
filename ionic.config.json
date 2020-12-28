@@ -1,0 +1,7 @@
+{
+  "name": "coagulator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
